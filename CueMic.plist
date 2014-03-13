@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.cuemic.com/iphone/CueMic.ipa</string>
+					<string>https://github.com/cuemic/iphone/raw/master/CueMic.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
